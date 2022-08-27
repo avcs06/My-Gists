@@ -7,5 +7,3 @@ A collection of my Gists
     3. [useLazyEffect](https://gist.github.com/avcs06/4ac2ef7f6eb3828900ef6e687ad003b3)
     4. [useEveryEffect](https://gist.github.com/avcs06/48340dcf9b48dd9419fd62d3135325a4)
     5. [useSomeEffect](https://gist.github.com/avcs06/52af2e292e1c964f0e564447c03526dd)
-2. Environments
-    1. [FormContext](https://gist.github.com/avcs06/b311038a62613bab7efa313576c6f13a)
